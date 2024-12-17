@@ -1,8 +1,5 @@
 # Dining Philosophers Problem
 
-## Description
-This project simulates the Dining Philosophers problem using Python's multithreading. It avoids deadlock and starvation through proper resource management.
-
 ## Authors
 - Mohamed Tarek Taha
 - Ahmed Mohamed Maged
@@ -15,12 +12,8 @@ This project simulates the Dining Philosophers problem using Python's multithrea
 - Cybersecurity Diploma
 - Faculty of Computer and Artificial Intelligence
 
-## Requirements
-- Python 3.x
-
-## How to Run
-1. Clone the repository.
-2. Run the script using `python dining_philosophers.py`.
+## Description
+This project simulates the Dining Philosophers problem using Python's multithreading. It avoids deadlock and starvation through proper resource management.
 
 ## Solution Details
 - The philosophers alternate between thinking and eating.
@@ -29,6 +22,13 @@ This project simulates the Dining Philosophers problem using Python's multithrea
 ## Examples
 - For deadlock prevention, the priority lock ensures that philosophers cannot hold one chopstick while waiting for another.
 - For starvation prevention, philosophers retry eating if they cannot acquire both chopsticks.
+
+## Requirements
+- Python 3.x
+
+## How to Run
+1. Clone the repository.
+2. Run the script using `python dining_philosophers.py`.
 
 ## License
 This project is licensed under the MIT License.
