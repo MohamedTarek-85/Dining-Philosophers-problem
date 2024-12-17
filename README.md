@@ -4,7 +4,7 @@
 This project simulates the Dining Philosophers problem using Python's multithreading. It avoids deadlock and starvation through proper resource management.
 
 ## Authors
-- Mohamed Tarek Taha Ahmed
+- Mohamed Tarek Taha
 - Ahmed Mohamed Maged
 - Wesam Ahmed Hassan
 - Mahmoud Ahmed AbdelAziz
