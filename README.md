@@ -1,5 +1,17 @@
 # Dining Philosophers Problem
 
+## Authors
+- Mohamed Tarek Taha Ahmed
+- Ahmed Mohamed Maged
+- Wesam Ahmed Hassan
+- Mahmoud Ahmed AbdelAziz
+- Mahmoud Osama Ibrahim
+
+## For
+- Helwan University
+- Cybersecurity Diploma
+- Faculty of Computer and Artificial Intelligence
+
 ## Description
 This project simulates the Dining Philosophers problem using Python's multithreading. It avoids deadlock and starvation through proper resource management.
 
@@ -21,14 +33,3 @@ This project simulates the Dining Philosophers problem using Python's multithrea
 ## License
 This project is licensed under the MIT License.
 
-## Authors
-- Mohamed Tarek Taha Ahmed
-- Ahmed Mohamed Maged
-- Wesam Ahmed Hassan
-- Mahmoud Ahmed AbdelAziz
-- Mahmoud Osama Ibrahim
-
-## For
-- Helwan University
-- Cybersecurity Diploma
-- Faculty of Computer and Artificial Intelligence
